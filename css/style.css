@@ -63,7 +63,7 @@ nav ul {
 }
 
 .section-banner {
-  min-height: calc(90vh - 53px);
+  min-height: calc(80vh - 53px);
   height: 100%;
   background-color: #000;
   display: flex;
